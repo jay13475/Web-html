@@ -1,0 +1,24 @@
+  @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
+	body{
+
+		background-repeat: no-repeat;
+		margin: 0px;
+		padding: 0px;
+	}
+	.flexOne{
+
+		display:flex;
+		position: relative;
+		border: black 3px solid	;
+		border-radius: 5px 5px 25px 25px;
+		background-color: white;
+		background-image:url(wave.svg);
+		background-repeat:no-repeat;
+		background-position: center;
+		background-size: 390px;
+	}
+.one, .two, .three, .four{
+	padding: 15px;
+	padding-left: 30px;
+	position: relative;
+	font-size: 20px;
